@@ -19,7 +19,7 @@ If you do not already have a hypervisor installed, install one now.
 
 ## Install kubectl
 
-* [Install kubectl](/docs/tasks/tools/install-kubectl/).
+* [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/).
 
 ## Install Minikube
 
